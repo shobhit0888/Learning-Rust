@@ -9,3 +9,4 @@ fn main() {
     println!("The value of b is: {}", b);
 
 }
+//  The value of a is: 45
